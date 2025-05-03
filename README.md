@@ -5,7 +5,6 @@
 - Manipuler les classes, méthodes, listes, et opérateurs
 - Appliquer le contrôle de flux et structurer un programme complet
 
----
 
 ## Partie 1 : Structures de Données
 
@@ -154,6 +153,6 @@ void main() {
 Voici une capture d'écran de l'exécution du programme :
 
 <p align="center">
-  <img src="resultat.PNG" width="500"/>
+  <img src="result.PNG" width="500"/>
 </p>
 
